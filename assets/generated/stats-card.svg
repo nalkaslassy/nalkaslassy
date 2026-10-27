@@ -12,7 +12,7 @@
 <text x="425.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">1</text>
 <text x="425.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">PULL REQUESTS</text>
 <line x1="510" y1="38" x2="510" y2="108" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
-<text x="595.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">0</text>
+<text x="595.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">2</text>
 <text x="595.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">ISSUES</text>
 <line x1="680" y1="38" x2="680" y2="108" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
 <text x="765.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">27</text>
